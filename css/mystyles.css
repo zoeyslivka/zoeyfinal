@@ -1,0 +1,58 @@
+#top{
+    text-decoration: underline;
+}
+
+body{
+    background-color: rgb(232, 249, 196);
+}
+
+nav{
+    background-color: rgb(245, 240, 140);
+    padding: 10px;
+    overflow:hidden;
+    text-align: center;
+}
+
+nav a{
+    padding:10px;
+    text-decoration: none;
+    font-weight: bold;
+    color:black;
+    text-align: center;
+}
+
+nav a:hover{
+    background-color: rgb(232, 249, 196);
+}
+
+.header{
+    text-align: center;
+    font-size: larger;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.tableauPlaceholder{
+    width:40%;
+}
+
+.common{
+    text-align: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(83, 83, 83);
+}
+
+.footer{
+    position:fixed;
+    background-color:whitesmoke;
+    color:black;
+    bottom: 0px;
+    right:3px;
+    left: 3px;
+    height:25px;
+    font: size 10px;
+    line-height: 25px;
+    align-items: center;
+}
+.art{
+    font-style: italic;
+}
